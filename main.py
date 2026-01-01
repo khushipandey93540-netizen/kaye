@@ -1,2 +1,5 @@
-print("Consumer Mood and Trend Synthesizer")
-print("Project by Khushi")
+# Consumer Mood and Trend Synthesizer
+# Built step by step
+
+print("Hello. I am alive.")
+print("One day I will analyze consumer moods.")
